@@ -1,5 +1,15 @@
 {
   "name": "pkg-a",
   "private": true,
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "contributors": [
+    {
+      "name": "person-a",
+      "email": "example-a@example.org"
+    },
+    {
+      "name": "person-b",
+      "email": "example-b@example.org"
+    }
+  ]
 }
